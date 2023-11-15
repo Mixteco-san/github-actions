@@ -1,5 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 name: Hola estoy aprendiendo GA
+# Se recomienda agregar run name porque este nombre aparecera en nuestra pestaña de actions
+run-name: Aprendiendo GitHub Actions
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
